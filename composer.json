@@ -25,7 +25,7 @@
         "rap2hpoutre/laravel-log-viewer": "^1.0",
         "riverslei/payment": "*",
         "spatie/laravel-permission": "^2.29",
-        "youzanyun/open-sdk": "^2.0"
+        "youzanyun/open-sdk": "^2.09"
     },
     "require-dev": {
         "filp/whoops": "^2.0",
